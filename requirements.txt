@@ -1,0 +1,25 @@
+# Web Framework
+fastapi>=0.110.0
+uvicorn>=0.28.0
+
+# WebSocket support
+websockets>=12.0
+
+# HTTP Client
+httpx>=0.27.0
+aiohttp>=3.9.1
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Anthropic Claude LLM
+anthropic>=0.40.0
+
+# Official MCP SDK
+mcp>=1.0.0
+
+# FastMCP for MCP server
+fastmcp>=0.9.0
+
+# Async file handling
+aiofiles>=23.2.1
