@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MCP Chatbot - Claude & MCP Demo</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div id="chat-container">
+        <header class="chat-header">
+            <h1>🤖 MCP Chatbot</h1>
+            <p>A learning demo powered by Anthropic Claude & Model Context Protocol</p>
+        </header>
+        <div id="chat-window">
+            <div id="chat-messages">
+                <div class="message bot-message">
+                    <div class="message-content">
+                        <strong>🤖 Assistant:</strong>
+                        <p>Hello! I'm your MCP-powered assistant. I can help you with:</p>
+                        <ul>
+                            <li>📦 Product information</li>
+                            <li>🎫 Support tickets</li>
+                            <li>❓ Frequently asked questions</li>
+                        </ul>
+                        <p>Try asking: "What products do you have?" or "Show me open tickets"</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="input-container">
+            <form id="chat-form">
+                <input type="text" id="message-input" placeholder="Ask me about products, tickets, or FAQs..." autocomplete="off">
+                <button type="submit" id="send-button">
+                    <span>Send</span>
+                </button>
+            </form>
+        </div>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html> 
