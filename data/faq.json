@@ -1,0 +1,43 @@
+
+[
+  {
+    "id": "faq_1",
+    "question": "What is the return policy?",
+    "answer": "You can return any item within 30 days of purchase."
+  },
+  {
+    "id": "faq_2",
+    "question": "How do I track my order?",
+    "answer": "You can track your order using the tracking number sent to your email."
+  },
+  {
+    "id": "faq_3",
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to most countries. Shipping fees may apply."
+  },
+  {
+    "id": "faq_4",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards, PayPal, and Apple Pay."
+  },
+  {
+    "id": "faq_5",
+    "question": "How do I cancel my order?",
+    "answer": "You can cancel your order within 24 hours of placing it by contacting our customer support."
+  },
+  {
+    "id": "faq_6",
+    "question": "What is the warranty on your products?",
+    "answer": "All our products come with a one-year manufacturer's warranty."
+  },
+  {
+    "id": "faq_7",
+    "question": "How do I contact customer support?",
+    "answer": "You can contact our customer support via email at support@example.com or by calling our toll-free number."
+  },
+  {
+    "id": "faq_8",
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, we offer gift wrapping for an additional fee. You can select this option at checkout."
+  }
+] 

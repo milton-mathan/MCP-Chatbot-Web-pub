@@ -1,0 +1,94 @@
+
+[
+  {
+    "id": "prod_1",
+    "name": "Laptop",
+    "description": "A high-performance laptop.",
+    "price": 1200,
+    "in_stock": true
+  },
+  {
+    "id": "prod_2",
+    "name": "Mouse",
+    "description": "An ergonomic wireless mouse.",
+    "price": 25,
+    "in_stock": true
+  },
+  {
+    "id": "prod_3",
+    "name": "Keyboard",
+    "description": "A mechanical keyboard with RGB lighting.",
+    "price": 75,
+    "in_stock": false
+  },
+  {
+    "id": "prod_4",
+    "name": "Smartphone",
+    "description": "A latest model smartphone with a great camera.",
+    "price": 999,
+    "in_stock": true
+  },
+  {
+    "id": "prod_5",
+    "name": "Tablet",
+    "description": "A 10-inch tablet perfect for media consumption.",
+    "price": 450,
+    "in_stock": true
+  },
+  {
+    "id": "prod_6",
+    "name": "Headphones",
+    "description": "Noise-cancelling over-ear headphones.",
+    "price": 250,
+    "in_stock": false
+  },
+  {
+    "id": "prod_7",
+    "name": "Smartwatch",
+    "description": "A smartwatch with fitness tracking.",
+    "price": 199,
+    "in_stock": true
+  },
+  {
+    "id": "prod_8",
+    "name": "Monitor",
+    "description": "A 27-inch 4K UHD monitor.",
+    "price": 350,
+    "in_stock": true
+  },
+  {
+    "id": "prod_9",
+    "name": "USB-C Hub",
+    "description": "A 7-in-1 USB-C hub for all your connectivity needs.",
+    "price": 40,
+    "in_stock": true
+  },
+  {
+    "id": "prod_10",
+    "name": "Laptop Stand",
+    "description": "An adjustable aluminum laptop stand.",
+    "price": 30,
+    "in_stock": true
+  },
+  {
+    "id": "prod_11",
+    "name": "Webcam",
+    "description": "A 1080p webcam with a built-in microphone.",
+    "price": 60,
+    "in_stock": false
+  },
+  {
+    "id": "prod_12",
+    "name": "External Hard Drive",
+    "description": "A 2TB portable external hard drive.",
+    "price": 80,
+    "in_stock": true
+  },
+  {
+    "id": "prod_13",
+    "name": "Power Bank",
+    "description": "A 20000mAh portable power bank.",
+    "price": 50,
+    "in_stock": true
+  }
+] 

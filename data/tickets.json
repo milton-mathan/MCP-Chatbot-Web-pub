@@ -1,0 +1,63 @@
+
+[
+  {
+    "id": "tkt_1",
+    "customer_name": "Alice",
+    "issue": "Laptop screen is flickering.",
+    "status": "open"
+  },
+  {
+    "id": "tkt_2",
+    "customer_name": "Bob",
+    "issue": "Mouse not connecting via Bluetooth.",
+    "status": "in_progress"
+  },
+  {
+    "id": "tkt_3",
+    "customer_name": "Charlie",
+    "issue": "Order not delivered.",
+    "status": "closed"
+  },
+  {
+    "id": "tkt_4",
+    "customer_name": "David",
+    "issue": "Smartphone is not charging.",
+    "status": "open"
+  },
+  {
+    "id": "tkt_5",
+    "customer_name": "Eve",
+    "issue": "Tablet is running slow.",
+    "status": "in_progress"
+  },
+  {
+    "id": "tkt_6",
+    "customer_name": "Frank",
+    "issue": "Headphones are not pairing.",
+    "status": "closed"
+  },
+  {
+    "id": "tkt_7",
+    "customer_name": "Grace",
+    "issue": "Smartwatch is not tracking steps.",
+    "status": "open"
+  },
+  {
+    "id": "tkt_8",
+    "customer_name": "Heidi",
+    "issue": "Monitor has dead pixels.",
+    "status": "in_progress"
+  },
+  {
+    "id": "tkt_9",
+    "customer_name": "Ivan",
+    "issue": "USB-C hub is not working.",
+    "status": "closed"
+  },
+  {
+    "id": "tkt_10",
+    "customer_name": "Judy",
+    "issue": "Laptop stand is wobbly.",
+    "status": "open"
+  }
+] 
